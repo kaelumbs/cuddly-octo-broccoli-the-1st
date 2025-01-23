@@ -1,3 +1,3 @@
 # test
 
-yo
+this is my first repository
